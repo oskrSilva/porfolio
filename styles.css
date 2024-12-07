@@ -98,3 +98,19 @@ footer {
     color: white;
     font-size: 0.9em;
 }
+
+.footer-contact ul{
+    display: flex;
+    justify-content: center;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 5px 0;
+}
+a {
+    color: #ddd;
+}
